@@ -1,0 +1,28 @@
+<style>
+        a{
+            text-decoration: none;
+        }
+        button{
+            color: #08060efa;
+            background-color: bisque;
+            box-shadow: 1px 2px;
+            position: relative;
+            top: 50%;
+            left:40%;
+        }
+        img{
+            border:5px solid;color: darkred;
+        }
+        span{
+            color: red;
+            text-align: justify;
+        }
+        h1{
+            position: relative;
+            top: 50%;
+            left:42%;
+        }
+        p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    </style>
